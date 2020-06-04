@@ -20,8 +20,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * Node.js
 * Typescript
 * React
+* knex
 
 Neste evento foi desenvolvido uma API com Node, no banco de dados foi utilizado o SQLite
+
+## knex
+Knex é um SQLBuilder.
 
 Uma aplicação Web utilizando React
 
@@ -48,6 +52,16 @@ Com isso o servidor ira iniciar e reiniciar automaticamente com qualquer altera�
 3. Rode o comando ```yarn start```
 
 Com isso a aplicação web ira abrir em seu navegador 
+
+# 🖼️Fotos
+
+## Tela Home
+![Ecoleta_Home](https://user-images.githubusercontent.com/59922096/83711606-0dca7300-a5fa-11ea-9a73-fa5b63ab4f9d.png)
+
+## Tela Cadastro de ponto
+![Ecoleta_Cad_1](https://user-images.githubusercontent.com/59922096/83711887-d5776480-a5fa-11ea-8902-7e29226b84eb.png)
+![Ecoleta_Cad_2](https://user-images.githubusercontent.com/59922096/83711604-0d31dc80-a5fa-11ea-9336-4e359df8ff78.png)
+![Ecoleta_Cad_3](https://user-images.githubusercontent.com/59922096/83711816-a3fe9900-a5fa-11ea-8f66-35a95c350749.png)
 
 
 # 👨‍💻Desenvolvedor
