@@ -59,7 +59,7 @@ Com isso a aplicação web ira abrir em seu navegador
 ### Normal
 ![Ecoleta_Home](https://user-images.githubusercontent.com/59922096/83711606-0dca7300-a5fa-11ea-9a73-fa5b63ab4f9d.png)
 
-### Usuario dastrado com sucesso
+### Usuario cadastrado com sucesso
 ![Ecoleta_Home_Sucesso](https://user-images.githubusercontent.com/59922096/83712629-92b68c00-a5fc-11ea-9606-53d7d99328e3.png)
 
 ## Tela Cadastro de ponto
