@@ -70,3 +70,6 @@ Com isso a aplicação web ira abrir em seu navegador
 
 # 👨‍💻Desenvolvedor
 Desenvolvido por [Fhelipe Augusto Rodrigues](https://www.linkedin.com/in/fhelipe-rodrigues-b57a52196/)
+
+<hr />
+<h6 align="center"> Made With 💖 by Fhelipe</h6>
