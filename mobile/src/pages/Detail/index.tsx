@@ -15,6 +15,7 @@ import Points from '../Points'
     point:{
       name: string,
       image: string,
+      image_url: string,
       email:string,
       whatsapp:string,
       uf:string,
@@ -77,7 +78,7 @@ import Points from '../Points'
                 <Icon name="arrow-left" color="#34CB79" size={20}/>
               </TouchableOpacity>
 
-              <Image style={styles.pointImage} source={{ uri:'https://images.unsplash.com/photo-1580913428023-02c695666d61?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=60' }}/>
+              <Image style={styles.pointImage} source={{ uri:data.point.image_url }}/>
               <Text style={styles.pointName}>{data.point.name}</Text>
               <Text style={styles.pointItems}>{data.items.map(item=>{return item.title}).join(', ')}.</Text>
 
